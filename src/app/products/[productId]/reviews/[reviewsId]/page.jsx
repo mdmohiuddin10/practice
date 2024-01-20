@@ -1,5 +1,4 @@
 
-
 const ReviewDetails = ({params}) => {
     return (
         <div>
